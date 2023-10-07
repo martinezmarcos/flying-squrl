@@ -2,9 +2,13 @@
 
 A helpful little bookmarking tool to help jump to exactly what you're looking for using configurable commands in your browser's address bar.
 
-This project uses [pnpm](https://pnpm.io/installation).
+Built with [Hono](https://hono.dev/) + [htmx](https://htmx.org/).
+
+Check out the [UI demo](https://flying-squrl-demo.marcos-fyi.workers.dev/) (command execution disabled).
 
 ## Install and run locally
+
+This project uses [pnpm](https://pnpm.io/installation).
 
 ```
 pnpm i
