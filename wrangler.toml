@@ -1,0 +1,11 @@
+name = "flying-squrl"
+compatibility_date = "2023-01-01"
+
+main = "./src/index.tsx"
+
+kv_namespaces = [
+  { binding = "APP_NAMESPACE", id = "local_test", preview_id = "local_test_preview" },
+]
+
+[site]
+bucket = "./public"
